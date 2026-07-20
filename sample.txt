@@ -1,0 +1,3 @@
+Hello everyone.
+Welcome to Python Internship.
+This is my Project 3.
